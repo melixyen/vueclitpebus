@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a460d"],{"05d6":function(t,n,e){"use strict";e.r(n);var s=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"home"},[e("Stop",{attrs:{msg:"松山高中（南向）",stationid:"2095"}})],1)},a=[],o=e("82ed"),c={name:"home",components:{Stop:o["a"]}},i=c,l=e("2877"),u=Object(l["a"])(i,s,a,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0a460d.0e1e9838.js.map
